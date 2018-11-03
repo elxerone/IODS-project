@@ -1,11 +1,6 @@
-
 ---
-title: "Introduction to Open Data Science 2018"
-author: "Eeva Eronen-Rasimus"
-date: "11/3/2018"
-output: html_document
+output: github_document
 ---
-
 # Introduction to Open Data Science 2018
 
 
@@ -13,4 +8,4 @@ Aim of the course is to understand possibilities of open science, open data, and
 visualize and analyze data sets.
 
 
-[Link to my Github](https://github.com/elxerone/IODS-project.git)
+[Link to my course diary](https://elxerone.github.io/IODS-project/)
